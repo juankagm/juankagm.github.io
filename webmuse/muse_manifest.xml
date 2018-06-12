@@ -1,0 +1,56 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="juancarlosgonzalez3d.es" resolutions="1x" timestamp="1528816424001">
+  <folder name="css">
+    <file name="site_global.css" crc="4146482732"/>
+    <file name="index.css" crc="513457256" ref="index"/>
+    <file name="iefonts_index.css" crc="3826112836" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="compbuena.mov" crc="131965187" seo="true" mt="1523270831000"/>
+    <file name="cv-juan-carlos-gonzalez-martinez-2017-actualizado-(3).doc" crc="3811000507" seo="true" mt="1528709631000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u506.php" crc="249449067" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3801467724" ref="index"/>
+    <file name="fotoweb.jpg" crc="3975616510" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u265-4.png" crc="3949617278" ref="index"/>
+    <file name="indicador.svg" crc="4104620961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indicador_poster_.png" crc="234583797" ref="index"/>
+    <file name="fotoweb-u885-fr.jpg" crc="4022510185" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="animacion.jpg" crc="420255871" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animacion-crop-u642.jpg" crc="410047756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="modelado.jpg" crc="4291581809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acabados.jpg" crc="309140382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="451892862" seo="true" mt="1528816026068" redirect="true"/>
+</manifest>
