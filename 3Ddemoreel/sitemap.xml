@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://juancarlosgonzalez3d.es/index.html</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://juancarlosgonzalez3d.es/images/indicador.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://juancarlosgonzalez3d.es/images/animacion-crop-u642.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://juancarlosgonzalez3d.es/images/modelado.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://juancarlosgonzalez3d.es/images/acabados.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://juancarlosgonzalez3d.es/assets/compbuena.mov</loc>
+    <lastmod>2018-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://juancarlosgonzalez3d.es/assets/cv-juan-carlos-gonzalez-martinez-2017-actualizado-(3).doc</loc>
+    <lastmod>2018-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
